@@ -41,17 +41,20 @@ Sentence pairs数据集介绍：
 
 	如图1和图2所示，我们的模型的翻译效果还是可以的。接着，我们用以下随机写的10个句子来测试我们的模型，以及在gpt4o、llama3以及Copilot上翻译这10个句子。
 
-句子\模型	我们的马来文-英文翻译模型	GPT3.5	llama3-8B	Copilot
-Saya baik, terima kasih.	i am ok, thank you.	I am fine, thank you.	I'm fine, thank you.	I’m fine, thank you.
-Nama saya John.	my name is john.	My name is John.	My name is John.	My name is John.
-Saya dari Malaysia.	i am from malaysia.	I am from Malaysia.	 I am from Malaysia.	I am from Malaysia.
-Saya lapar.	i am hungry.	I am hungry.	 I'm hungry.	I am hungry.
-Saya ingin pergi ke pantai.	i want to go to the beach.	I want to go to the beach.	I want to go to the beach.	I want to go to the beach.
-I like to eat nasi lemak.	saya suka makan nasi lemak.	Saya suka makan nasi lemak.	Saya suka makan nasi lemak.	Saya suka makan nasi lemak.
-Where is my car?	di mana kereta saya?	Di mana kereta saya?	Di mana kenderaan saya?	Di mana kereta saya?
-Can you help me?	bolehkah awak membantu saya?	Tolong saya boleh?	 Bolehkah anda bantu saya?	Bolehkah anda membantu saya?
-We go to school by bus.	kami pergi ke sekolah dengan bus.	Kami pergi ke sekolah dengan bas.	Kami pergi ke sekolah dengan bas.	Kami pergi ke sekolah dengan bas.
-He plays soccer with his friends.	dia bermain bola dengan kawanya.	Dia bermain bola sepak dengan kawannya.	Beliau bermain bola sepak dengan rakan-rakannya.	Dia bermain bola sepak dengan kawannya.
+| 句子\模型                         | 我们的马来文-英文翻译模型         | GPT3.5                                  | llama3-8B                                        | Copilot                                 |
+| --------------------------------- | --------------------------------- | --------------------------------------- | ------------------------------------------------ | --------------------------------------- |
+| Saya baik, terima kasih.          | i am ok, thank you.               | I am fine, thank you.                   | I'm fine, thank you.                             | I’m fine, thank you.                    |
+| Nama saya John.                   | my name is john.                  | My name is John.                        | My name is John.                                 | My name is John.                        |
+| Saya dari Malaysia.               | i am from malaysia.               | I am from Malaysia.                     | I am from Malaysia.                              | I am from Malaysia.                     |
+| Saya lapar.                       | i am hungry.                      | I am hungry.                            | I'm hungry.                                      | I am hungry.                            |
+| Saya ingin pergi ke pantai.       | i want to go to the beach.        | I want to go to the beach.              | I want to go to the beach.                       | I want to go to the beach.              |
+| I like to eat nasi lemak.         | saya suka makan nasi lemak.       | Saya suka makan nasi lemak.             | Saya suka makan nasi lemak.                      | Saya suka makan nasi lemak.             |
+| Where is my car?                  | di mana kereta saya?              | Di mana kereta saya?                    | Di mana kenderaan saya?                          | Di mana kereta saya?                    |
+| Can you help me?                  | bolehkah awak membantu saya?      | Tolong saya boleh?                      | Bolehkah anda bantu saya?                        | Bolehkah anda membantu saya?            |
+| We go to school by bus.           | kami pergi ke sekolah dengan bus. | Kami pergi ke sekolah dengan bas.       | Kami pergi ke sekolah dengan bas.                | Kami pergi ke sekolah dengan bas.       |
+| He plays soccer with his friends. | dia bermain bola dengan kawanya.  | Dia bermain bola sepak dengan kawannya. | Beliau bermain bola sepak dengan rakan-rakannya. | Dia bermain bola sepak dengan kawannya. |
+
+
 表1
 	从表1中可以看出除了大小写的差别以外，其实我们的马来文 - 英文翻译系统的翻译效果是和GPT3.5以及Copilot翻译的效果没有太大的区别的。
 
