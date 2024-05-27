@@ -37,10 +37,12 @@ Sentence pairs数据集介绍：
 
 
 图1 
+
 ![image](https://github.com/qixuanlo/ENG2MLY-MLY2ENG_Translation/assets/143249443/65d6563b-a7ad-4cdd-ab76-66ad0df1bbe0)
 
 
 图2
+
 ![image](https://github.com/qixuanlo/ENG2MLY-MLY2ENG_Translation/assets/143249443/8a17c46d-a998-4c58-a559-332f271e65bb)
 
 如图1和图2所示，我们的模型的翻译效果还是可以的。接着，我们用以下随机写的10个句子来测试我们的模型，以及在gpt4o、llama3以及Copilot上翻译这10个句子。
